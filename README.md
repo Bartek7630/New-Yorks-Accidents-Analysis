@@ -1,6 +1,7 @@
 # New-Yorks-Accidents-Analysis
 
 In this project I have created a dashboard illustrating the distribution of accidents in New York City.
+Project was made in Excel.
 
 While analyzing the data, I discovered that:
 - Accidents are evenly distributed, but the highest number occurred on Fridays.
